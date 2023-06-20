@@ -1,0 +1,16 @@
+>> Config bên phía client
+
+npm install redux react-redux redux-saga axios moment
+ // redux : quản lý state
+ // redux-saga: là 1 middleware xử lý sideEffect
+ // axios: để gọi cái request như get post push delete
+ // moment : xử lý thời gian
+
+
+ >> Config phía server
+// npm install express mongoose body-parser cors nodemon
+ // npm init -y      y là tự động trả lời những câu hỏi
+ // npm install express ==> là 1 framework của node js giúp chúng ta tạo các routing trong ứng dụng 
+ // moongoose tạo các modal cho database
+ // cors và body-parser là middle của express
+ // nodemon ==> không phải khởi động lại server khi có sự thay đổi trong file node js   
