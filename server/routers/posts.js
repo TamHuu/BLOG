@@ -4,5 +4,5 @@ const router = express.Router();
 
 router.get("/", getPosts);
 router.post("/", createPosts);
-router.put("/update", updatePosts);
+router.post("/update", updatePosts);
 export default router;
