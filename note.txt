@@ -14,3 +14,4 @@ npm install redux react-redux redux-saga axios moment
  // moongoose tạo các modal cho database
  // cors và body-parser là middle của express
  // nodemon ==> không phải khởi động lại server khi có sự thay đổi trong file node js   
+ // npm install @material-ui/core @material-ui/icons
