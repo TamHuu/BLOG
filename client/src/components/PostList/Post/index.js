@@ -25,7 +25,7 @@ export default function Post({ post }) {
           </IconButton>
         }
       />
-      <CardMedia image="" title="Title" />
+      <CardMedia image="#" title="Title" />
       <CardContent>
         <Typography variant="h5" color="textPrimary">
           {post.title}
